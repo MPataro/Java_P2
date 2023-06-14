@@ -1,3 +1,4 @@
+package Java_P2;
 import java.util.Scanner;
 import java.util.Date;
 import java.text.DateFormat;
@@ -13,7 +14,8 @@ class Data {
     private int ano;
     private Scanner scanner = new Scanner(System.in);
 
-    public void Data() {
+ 
+    public Data() {
         int maxValueDia = 0;
 
         this.entrada(1, 1000000, "ano", "Informe um valor maior que 0.");
@@ -25,7 +27,7 @@ class Data {
 
     }
 
-    public void Data(int d, int m, int a) {
+    public Data(int d, int m, int a) {
         this.setDia(d);
         this.setMes(m);
         this.setAno(a);
@@ -87,7 +89,6 @@ class Data {
         this.ano = a;
     }
 
-    
     //Mostra a data gravada no formato dd/mm/aaaa
     public String mostra1() {
         int d = getDia();
@@ -270,10 +271,10 @@ public class Exercise1 {
                     teste.Data();
                     break;
                 case 2:
-                    System.out.println("Data inserida: " + teste.mostra1());
+                    System.out.println(teste.mostra1());
                     break;
                 case 3:
-                    System.out.println("Data inserida: " + teste.mostra2());
+                    System.out.println(teste.mostra2());
                     break;
                 case 4:
                     System.out.println("Dias transcorridos no ano: " + teste.diasTranscorridos());

@@ -1,0 +1,126 @@
+PS C:\Users\Windows\Desktop\Java_P2>  c:; cd 'c:\Users\Windows\Desktop\Java_P2'; & 'C:\Program Files\Java\jdk-19\bin\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:61649' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Windows\AppData\Roaming\Code\User\workspaceStorage\7a80534d88319f1e23983de891d26279\redhat.java\jdt_ws\jdt.ls-java-project\bin' 'Java_P2.Exercise2' 
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+---------------------------Dados de sua consulta-----------------------------
+
+Paciente: Miguel Pataro
+Médico: João Pedral
+Data: Data: 07/07/2023
+Hora: 17:45:00
+
+--------------------------------------------------------
+----------------------Agende a Consulta----------------------------------
+
+Digite o nome do paciente:
+p2paciente
+Digite o nome do médico: 
+p2medico
+Digite o ano: 2020
+Digite o mês: 2
+Digite o dia: 30
+Informe um número entre 1 e 29.
+Digite o dia: 29
+Digite hora:26
+Informe um valor entre 0 e 23.
+Digite hora:23
+Digite minutos:60
+Informe um valor entre 0 e 59.
+Digite minutos:59
+Digite segundos:60
+Informe um valor entre 0 e 59.
+Digite segundos:59
+
+--------------------------------------------------------
+---------------------------Dados de sua consulta-----------------------------
+
+Paciente: p2paciente
+Médico: p2medico
+Data: Data: 29/02/2020
+Hora: 23:59:59
+--------------------------------------------------------
+
+--------------------------------------------------------
+----------------------Agende a Consulta----------------------------------
+
+Digite o ano: 2023  
+Digite o mês: 5
+Digite o dia: 40
+Informe um número entre 1 e 31.
+Digite o dia: 31
+Digite hora:25
+Informe um valor entre 0 e 23.
+Digite hora:23
+Digite minutos:43
+PS C:\Users\Windows\Desktop\Java_P2>  c:; cd 'c:\Users\Windows\Desktop\Java_P2'; & 'C:\Program Files\Java\jdk-19\bin\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:61735' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Windows\AppData\Roaming\Code\User\workspaceStorage\7a80534d88319f1e23983de891d26279\redhat.java\jdt_ws\jdt.ls-java-project\bin' 'Java_P2.Exercise2' 
+--------------------------------------------------------
+
+
+--------------------------------------------------------
+---------------------------Dados de sua consulta-----------------------------
+
+Paciente: Miguel Pataro
+Médico: João Pedral
+Data: Data: 07/07/2023
+Hora: 17:45:00
+
+--------------------------------------------------------
+----------------------Agende a Consulta----------------------------------
+
+Digite o nome do paciente:
+p2Paciente
+Digite o nome do médico: 
+P2medico
+Digite o ano: 202
+Digite o mês: 26
+Informe um número entre 1 e 12.
+Digite o mês: 12
+Digite o dia: 4
+Digite hora:26
+Informe um valor entre 0 e 23.
+Digite hora:23
+Digite minutos:58
+Digite segundos:60
+Informe um valor entre 0 e 59.
+Digite segundos:59
+
+--------------------------------------------------------
+---------------------------Dados de sua consulta-----------------------------
+
+Paciente: p2Paciente
+Médico: P2medico
+Data: Data: 04/12/0202
+Hora: 23:58:59
+--------------------------------------------------------
+
+--------------------------------------------------------
+----------------------Agende a Consulta----------------------------------
+
+Digite o ano: 2020
+Digite o mês: 2
+Digite o dia: 30
+Informe um número entre 1 e 29.
+Digite o dia: 29
+Digite hora:26
+Informe um valor entre 0 e 23.
+Digite hora:23
+Digite minutos:56
+Digite segundos:60
+Informe um valor entre 0 e 59.
+Digite segundos:59
+Digite o nome do paciente: 
+P1paciente
+Digite o nome do médico: 
+P1medico
+
+--------------------------------------------------------
+---------------------------Dados de sua consulta-----------------------------
+
+Paciente: P1paciente
+Médico: P1medico
+Data: Data: 29/02/2020
+Hora: 23:56:59
+
+--------------------------------------------------------
+Quantidade de consultas: 3
